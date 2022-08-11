@@ -1,0 +1,7 @@
+[
+  {
+    "name": "org.july.testing.Greeting",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]
